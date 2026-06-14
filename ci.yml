@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.vite/
+.env
+.env.local
+.env.production
+*.log
+.DS_Store
+uploads/*
+!uploads/.gitkeep
+*.wallet.json
+mnemonic*

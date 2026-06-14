@@ -1,0 +1,8 @@
+## Qué cambia
+
+## Por qué
+
+## Checklist
+- [ ] Build pasa (`npm run build` en client)
+- [ ] Backend pasa node --check
+- [ ] Documentación actualizada
